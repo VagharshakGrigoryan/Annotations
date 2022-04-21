@@ -1,4 +1,4 @@
-package com.company;
+package com.company.var;
 
 public class Main {
     private int calcSum(int i,int... values) {
@@ -23,6 +23,4 @@ public class Main {
 //        System.out.println(m.calcSum(1, 2));
        // System.out.println(m.calcSum());
     }
-
-
 }

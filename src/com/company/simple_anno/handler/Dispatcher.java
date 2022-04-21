@@ -1,4 +1,4 @@
-package com.company.simple_anno;
+package com.company.simple_anno.handler;
 
 import com.company.simple_anno.annotation.MethAnnotation;
 import com.company.simple_anno.handler.MathHandler;

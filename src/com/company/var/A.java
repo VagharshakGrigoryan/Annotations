@@ -1,4 +1,4 @@
-package com.company.simple_anno;
+package com.company.var;
 
 import java.lang.annotation.*;
 
